@@ -1,10 +1,10 @@
 # Science Olympiad Electric Vehicle (2026)
 
-CAD source for my 2026 Science Olympiad Electric Vehicle build. Full assembly exported from Onshape as STEP (AP242).
+CAD source for my 2026 Science Olympiad Electric Vehicle build. Full assembly built and exported from onshape
 
 ## Files
 
-- `cad/electric_vehicle.step` — full assembly, STEP AP242 format. Open in Onshape, FreeCAD, Fusion 360, SolidWorks, etc.
+- `cad/electric_vehicle.step` — full assembly.
 
 ## Parts in the assembly
 
@@ -15,9 +15,6 @@ CAD source for my 2026 Science Olympiad Electric Vehicle build. Full assembly ex
 
 ## Notes
 
-- Distance and timing targets vary by year — check the current Science Olympiad EV rules before finalizing gear ratios / stopping mechanism.
 - TODO: add BOM with part numbers/sources, wiring diagram, and code for the stop-distance control logic.
+- If you really want it lmk
 
-## License
-
-TODO — pick a license (e.g. MIT) if you want others to reuse this.
